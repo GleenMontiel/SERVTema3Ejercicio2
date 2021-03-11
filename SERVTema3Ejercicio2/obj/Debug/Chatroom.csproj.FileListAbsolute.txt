@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\SERV EV2\SERVTema3Ejercicio2\SERVTema3Ejercicio2\bin\Debug\SERVTema3Ejercicio2.exe.config
+C:\Users\PC\source\repos\SERV EV2\SERVTema3Ejercicio2\SERVTema3Ejercicio2\bin\Debug\SERVTema3Ejercicio2.exe
+C:\Users\PC\source\repos\SERV EV2\SERVTema3Ejercicio2\SERVTema3Ejercicio2\bin\Debug\SERVTema3Ejercicio2.pdb
+C:\Users\PC\source\repos\SERV EV2\SERVTema3Ejercicio2\SERVTema3Ejercicio2\obj\Debug\Chatroom.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SERV EV2\SERVTema3Ejercicio2\SERVTema3Ejercicio2\obj\Debug\SERVTema3Ejercicio2.exe
+C:\Users\PC\source\repos\SERV EV2\SERVTema3Ejercicio2\SERVTema3Ejercicio2\obj\Debug\SERVTema3Ejercicio2.pdb
+C:\Users\PC\source\repos\SERV EV2\SERVTema3Ejercicio2\SERVTema3Ejercicio2\obj\Debug\Chatroom.csprojAssemblyReference.cache
